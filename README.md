@@ -1,3 +1,5 @@
+![logo](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png)
+
 ![](stata.png)
 
 ```stata
